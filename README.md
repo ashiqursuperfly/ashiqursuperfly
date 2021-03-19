@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Ashiqur's Stats](https://github-readme-stats.vercel.app/api?username=ashiqursuperfly&theme=radical&show_icons=true&count_private=true)![Ashiqur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&theme=radical&layout=compact)
+![Ashiqur's Stats](https://github-readme-stats.vercel.app/api?username=ashiqursuperfly&show_icons=true&count_private=true)![Ashiqur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact)
 
 
 <!--
