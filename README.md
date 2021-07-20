@@ -1,6 +1,4 @@
-### Hi there 👋
-![Ashiqur's Stats](https://github-readme-stats.vercel.app/api?username=ashiqursuperfly&show_icons=true&count_private=true)![Ashiqur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact)
-
+![Ashiqur's Stats](https://github-readme-stats.vercel.app/api?username=ashiqursuperfly&show_icons=true&theme=nord&count_private=true)![Ashiqur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact&theme=nord)
 
 <!--
 ![Profile views](https://gpvc.arturio.dev/ashiqursuperfly)
