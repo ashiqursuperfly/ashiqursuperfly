@@ -1,5 +1,3 @@
-![My All Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact)
-
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
@@ -72,7 +70,7 @@ C                        5 repos             █░░░░░░░░░░�
 
  Last Updated on 27/07/2021
 <!--END_SECTION:waka-->
-
+![My All Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact)
 <!--
 ![Ashiqur's Stats](https://github-readme-stats.vercel.app/api?username=ashiqursuperfly&show_icons=true&theme=nord&count_private=true)
 ![Profile views](https://gpvc.arturio.dev/ashiqursuperfly)
