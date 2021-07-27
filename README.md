@@ -71,11 +71,13 @@ C                        5 repos             █░░░░░░░░░░�
  Last Updated on 27/07/2021
 <!--END_SECTION:waka-->
 ![My All Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqursuperfly&layout=compact)
+
+
 <!--
 ![Ashiqur's Stats](https://github-readme-stats.vercel.app/api?username=ashiqursuperfly&show_icons=true&theme=nord&count_private=true)
-![Profile views](https://gpvc.arturio.dev/ashiqursuperfly)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqursuperfly&layout=compact&theme=radical)
-
+![Profile views](https://gpvc.arturio.dev/ashiqursuperfly)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
