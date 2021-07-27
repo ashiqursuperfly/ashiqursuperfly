@@ -1,9 +1,11 @@
-![Ashiqur's Stats](https://github-readme-stats.vercel.app/api?username=ashiqursuperfly&show_icons=true&theme=nord&count_private=true)![Ashiqur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact&theme=nord)
+
+![Ashiqur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <!--
+![Ashiqur's Stats](https://github-readme-stats.vercel.app/api?username=ashiqursuperfly&show_icons=true&theme=nord&count_private=true)
 ![Profile views](https://gpvc.arturio.dev/ashiqursuperfly)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqursuperfly&layout=compact&theme=radical)
 
