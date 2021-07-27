@@ -70,8 +70,10 @@ C                        5 repos             █░░░░░░░░░░�
 
  Last Updated on 27/07/2021
 <!--END_SECTION:waka-->
-![My All Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqursuperfly&layout=compact)
+
+![My All Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact)
+
 
 
 <!--
