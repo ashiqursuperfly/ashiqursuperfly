@@ -69,6 +69,10 @@ C                        5 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 # My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Developing a cost effective alternative to Amazon RDS automatic backups](https://dev.to/ashiqursuperfly/cost-effective-alternative-to-amazon-rds-database-backups-1ll5)
+- [Setting up the database - Dockerizing Django for deploying anywhere !](https://dev.to/ashiqursuperfly/setting-up-the-database-dockerizing-django-for-deploying-anywhere-3emg)
+- [Setting up nginx - Dockerizing Django for deploying anywhere !](https://dev.to/ashiqursuperfly/setting-up-nginx-dockerizing-django-for-deploying-anywhere-536i)
+- [Setting up django app Dockerfile - Dockerizing Django for deploying anywhere !](https://dev.to/ashiqursuperfly/setting-up-django-app-dockerfile-dockerizing-django-for-deploying-anywhere-4mpc)
 <!-- BLOG-POST-LIST:END -->
 
 # My StackOverflow Activity
