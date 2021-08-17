@@ -15,4 +15,4 @@ jobs:
           comment_tag_name: "STACKOVERFLOW"
           commit_message: "Updated readme with the latest stackOverflow data"
           feed_list: "https://stackoverflow.com/feeds/user/10498418"
-          template: "$randomEmoji(💯,🔥,💫,🚀,🌮)"
+          template: "$randomEmoji(🎯,💫,🚀,🎨,🏄) <a href="$url">$title</a>"
