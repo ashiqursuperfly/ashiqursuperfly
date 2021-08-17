@@ -64,7 +64,13 @@ Linux                    6 hrs 51 mins       ███████████�
 <!-- BLOG-POST-LIST:END -->
 
 ❓ **My StackOverflow Activity**
-<!-- STACKOVERFLOW:START --><a href="https://stackoverflow.com/questions/68183866/start-django-development-server-on-aws-ec2-amazon-linux/68184423#68184423">🏄 Answer by because_im_batman for Start Django development server on AWS EC2 Amazon Linux</a><br><a href="https://stackoverflow.com/questions/8332443/set-djangos-filefield-to-an-existing-file/67377214#67377214">🏄 Answer by because_im_batman for Set Django's FileField to an existing file</a><br><a href="https://stackoverflow.com/questions/27493508/delete-a-media-file-after-each-succesive-upload-in-django/67377085#67377085">💫 Answer by because_im_batman for Delete a media file after each succesive upload in Django</a><br><a href="https://stackoverflow.com/questions/42544523/how-do-i-get-a-files-absolute-path-after-being-uploaded-in-django/67377004#67377004">🎯 Answer by because_im_batman for How do I get a files absolute path after being uploaded in Django?</a><br><a href="https://stackoverflow.com/questions/63580119/how-can-i-save-checkbox-state-from-recyclerview/63581461#63581461">🏄 Answer by because_im_batman for How can I save CheckBox state from RecyclerView?</a><br><!-- STACKOVERFLOW:END -->
+<!-- STACKOVERFLOW:START -->
+- [Answer by because_im_batman for Start Django development server on AWS EC2 Amazon Linux](https://stackoverflow.com/questions/68183866/start-django-development-server-on-aws-ec2-amazon-linux/68184423#68184423)
+- [Answer by because_im_batman for Set Django's FileField to an existing file](https://stackoverflow.com/questions/8332443/set-djangos-filefield-to-an-existing-file/67377214#67377214)
+- [Answer by because_im_batman for Delete a media file after each succesive upload in Django](https://stackoverflow.com/questions/27493508/delete-a-media-file-after-each-succesive-upload-in-django/67377085#67377085)
+- [Answer by because_im_batman for How do I get a files absolute path after being uploaded in Django?](https://stackoverflow.com/questions/42544523/how-do-i-get-a-files-absolute-path-after-being-uploaded-in-django/67377004#67377004)
+- [Answer by because_im_batman for How can I save CheckBox state from RecyclerView?](https://stackoverflow.com/questions/63580119/how-can-i-save-checkbox-state-from-recyclerview/63581461#63581461)
+<!-- STACKOVERFLOW:END -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqursuperfly&layout=compact) -->
 <!--
