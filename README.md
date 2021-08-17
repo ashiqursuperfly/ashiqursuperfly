@@ -54,7 +54,7 @@ Linux                    6 hrs 51 mins       ███████████�
  Last Updated on 17/08/2021
 <!--END_SECTION:waka-->
 ✍🏻 **My Blog Posts** 
-<!-- BLOG-POST-LIST:START -->🌮🌮🔥💯<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><a href="https://dev.to/ashiqursuperfly/cost-effective-alternative-to-amazon-rds-database-backups-1ll5">🏄 Developing a cost effective alternative to Amazon RDS automatic backups</a><a href="https://dev.to/ashiqursuperfly/setting-up-the-database-dockerizing-django-for-deploying-anywhere-3emg">🏄 Setting up the database - Dockerizing Django for deploying anywhere !</a><a href="https://dev.to/ashiqursuperfly/setting-up-nginx-dockerizing-django-for-deploying-anywhere-536i">💫 Setting up nginx - Dockerizing Django for deploying anywhere !</a><a href="https://dev.to/ashiqursuperfly/setting-up-django-app-dockerfile-dockerizing-django-for-deploying-anywhere-4mpc">🎯 Setting up django app Dockerfile - Dockerizing Django for deploying anywhere !</a><!-- BLOG-POST-LIST:END -->
 
 ❓ **My StackOverflow Activity**
 <!-- STACKOVERFLOW:START -->🌮🌮🔥💯🌮<!-- STACKOVERFLOW:END -->
