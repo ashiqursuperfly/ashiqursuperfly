@@ -67,7 +67,7 @@ C                        5 repos             █░░░░░░░░░░�
 
  Last Updated on 16/08/2021
 <!--END_SECTION:waka-->
-# My Blog Posts
+✍🏻 **My Blog Posts** 
 <!-- BLOG-POST-LIST:START -->
 - [Developing a cost effective alternative to Amazon RDS automatic backups](https://dev.to/ashiqursuperfly/cost-effective-alternative-to-amazon-rds-database-backups-1ll5)
 - [Setting up the database - Dockerizing Django for deploying anywhere !](https://dev.to/ashiqursuperfly/setting-up-the-database-dockerizing-django-for-deploying-anywhere-3emg)
@@ -75,7 +75,7 @@ C                        5 repos             █░░░░░░░░░░�
 - [Setting up django app Dockerfile - Dockerizing Django for deploying anywhere !](https://dev.to/ashiqursuperfly/setting-up-django-app-dockerfile-dockerizing-django-for-deploying-anywhere-4mpc)
 <!-- BLOG-POST-LIST:END -->
 
-# My StackOverflow Activity
+❓ **My StackOverflow Activity**
 <!-- STACKOVERFLOW:START -->
 - [Answer by because_im_batman for Start Django development server on AWS EC2 Amazon Linux](https://stackoverflow.com/questions/68183866/start-django-development-server-on-aws-ec2-amazon-linux/68184423#68184423)
 - [Answer by because_im_batman for Set Django's FileField to an existing file](https://stackoverflow.com/questions/8332443/set-djangos-filefield-to-an-existing-file/67377214#67377214)
