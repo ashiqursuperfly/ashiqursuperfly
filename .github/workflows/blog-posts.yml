@@ -13,4 +13,4 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           feed_list: "https://dev.to/feed/ashiqursuperfly"
-          # template: "<a href=\"$url\">$randomEmoji(🎯,💫,🚀,🎨,🏄) $title</a><br><br>"
+          template: "<tr><td>randomEmoji(🎈,🌀,🧿,🤖,🎯,💫,🚀,🎨,🏄) $title</td><td>$url</td></tr>"
