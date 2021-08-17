@@ -53,7 +53,6 @@ Linux                    6 hrs 51 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ✍🏻 **My Blog Posts** 
-<<<<<<< HEAD
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
