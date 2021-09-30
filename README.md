@@ -13,22 +13,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.1% 
-🌆 Daytime    127 commits    ███████░░░░░░░░░░░░░░░░░░   27.79% 
-🌃 Evening    138 commits    ███████░░░░░░░░░░░░░░░░░░   30.2% 
-🌙 Night      155 commits    ████████░░░░░░░░░░░░░░░░░   33.92%
+🌞 Morning    37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+🌆 Daytime    125 commits    ██████░░░░░░░░░░░░░░░░░░░   25.99% 
+🌃 Evening    157 commits    ████████░░░░░░░░░░░░░░░░░   32.64% 
+🌙 Night      162 commits    ████████░░░░░░░░░░░░░░░░░   33.68%
 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.47% 
-Tuesday      80 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.51% 
-Wednesday    39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.53% 
-Thursday     63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-Friday       97 commits     █████░░░░░░░░░░░░░░░░░░░░   21.23% 
-Saturday     90 commits     █████░░░░░░░░░░░░░░░░░░░░   19.69% 
-Sunday       31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.78%
+Monday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.85% 
+Tuesday      100 commits    █████░░░░░░░░░░░░░░░░░░░░   20.79% 
+Wednesday    40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.32% 
+Thursday     58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.06% 
+Friday       100 commits    █████░░░░░░░░░░░░░░░░░░░░   20.79% 
+Saturday     90 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
+Sunday       36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.48%
 
 ```
 
@@ -37,29 +37,36 @@ Sunday       31 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-XML                      2 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   43.18% 
-Kotlin                   2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.9% 
-Groovy                   37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.2% 
-Java                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.35% 
-Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           6 hrs 40 mins       ████████████████████████░   97.32% 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31% 
-PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    6 hrs 51 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
- Last Updated on 17/08/2021
+
+
+ Last Updated on 27/09/2021
 <!--END_SECTION:waka-->
 
 ✍🏻 **My Blog Posts** 
-<!-- BLOG-POST-LIST:START --><tr><td>🏄 Developing a cost effective alternative to Amazon RDS automatic backups</td><td>https://dev.to/ashiqursuperfly/cost-effective-alternative-to-amazon-rds-database-backups-1ll5</td></tr><tr><td>🏄 Setting up the database - Dockerizing Django for deploying anywhere !</td><td>https://dev.to/ashiqursuperfly/setting-up-the-database-dockerizing-django-for-deploying-anywhere-3emg</td></tr><tr><td>🧿 Setting up nginx - Dockerizing Django for deploying anywhere !</td><td>https://dev.to/ashiqursuperfly/setting-up-nginx-dockerizing-django-for-deploying-anywhere-536i</td></tr><tr><td>🌀 Setting up django app Dockerfile - Dockerizing Django for deploying anywhere !</td><td>https://dev.to/ashiqursuperfly/setting-up-django-app-dockerfile-dockerizing-django-for-deploying-anywhere-4mpc</td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Developing a cost effective alternative to Amazon RDS automatic backups](https://dev.to/ashiqursuperfly/cost-effective-alternative-to-amazon-rds-database-backups-1ll5)
+- [Setting up the database - Dockerizing Django for deploying anywhere !](https://dev.to/ashiqursuperfly/setting-up-the-database-dockerizing-django-for-deploying-anywhere-3emg)
+- [Setting up nginx - Dockerizing Django for deploying anywhere !](https://dev.to/ashiqursuperfly/setting-up-nginx-dockerizing-django-for-deploying-anywhere-536i)
+- [Setting up django app Dockerfile - Dockerizing Django for deploying anywhere !](https://dev.to/ashiqursuperfly/setting-up-django-app-dockerfile-dockerizing-django-for-deploying-anywhere-4mpc)
+<!-- BLOG-POST-LIST:END -->
 
 ❓ **My StackOverflow Activity**
-<!-- STACKOVERFLOW:START --><tr><td>🏄 Answer by because_im_batman for Start Django development server on AWS EC2 Amazon Linux</td><td>https://stackoverflow.com/questions/68183866/start-django-development-server-on-aws-ec2-amazon-linux/68184423#68184423</td></tr><tr><td>🏄 Answer by because_im_batman for Set Django's FileField to an existing file</td><td>https://stackoverflow.com/questions/8332443/set-djangos-filefield-to-an-existing-file/67377214#67377214</td></tr><tr><td>🧿 Answer by because_im_batman for Delete a media file after each succesive upload in Django</td><td>https://stackoverflow.com/questions/27493508/delete-a-media-file-after-each-succesive-upload-in-django/67377085#67377085</td></tr><tr><td>🌀 Answer by because_im_batman for How do I get a files absolute path after being uploaded in Django?</td><td>https://stackoverflow.com/questions/42544523/how-do-i-get-a-files-absolute-path-after-being-uploaded-in-django/67377004#67377004</td></tr><tr><td>🎨 Answer by because_im_batman for How can I save CheckBox state from RecyclerView?</td><td>https://stackoverflow.com/questions/63580119/how-can-i-save-checkbox-state-from-recyclerview/63581461#63581461</td></tr><!-- STACKOVERFLOW:END -->
+<!-- STACKOVERFLOW:START -->
+- [Answer by because_im_batman for My smart phone no longer appears kin the run/debug configurations drop-down](https://stackoverflow.com/questions/68990513/my-smart-phone-no-longer-appears-kin-the-run-debug-configurations-drop-down/68991236#68991236)
+- [Answer by because_im_batman for How do I know how much data a `docker pull` will fetch?](https://stackoverflow.com/questions/68919509/how-do-i-know-how-much-data-a-docker-pull-will-fetch/68920221#68920221)
+- [Answer by because_im_batman for Variables which names only contain digits (kotlin/android)](https://stackoverflow.com/questions/68871856/variables-which-names-only-contain-digits-kotlin-android/68872000#68872000)
+- [Answer by because_im_batman for Start Django development server on AWS EC2 Amazon Linux](https://stackoverflow.com/questions/68183866/start-django-development-server-on-aws-ec2-amazon-linux/68184423#68184423)
+- [Answer by because_im_batman for Set Django's FileField to an existing file](https://stackoverflow.com/questions/8332443/set-djangos-filefield-to-an-existing-file/67377214#67377214)
+<!-- STACKOVERFLOW:END -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqursuperfly&layout=compact) -->
 <!--
