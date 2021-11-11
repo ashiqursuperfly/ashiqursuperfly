@@ -66,11 +66,11 @@ Linux                    3 hrs 24 mins       ███████████�
 
 ❓ **My StackOverflow Activity**
 <!-- STACKOVERFLOW:START -->
+- [Answer by because_im_batman for Cannot install packages inside docker Ubuntu image](https://stackoverflow.com/questions/27273412/cannot-install-packages-inside-docker-ubuntu-image/69930809#69930809)
 - [Answer by because_im_batman for A custom argument in graphene-django](https://stackoverflow.com/questions/53453420/a-custom-argument-in-graphene-django/69785312#69785312)
 - [Answer by because_im_batman for My smart phone no longer appears kin the run/debug configurations drop-down](https://stackoverflow.com/questions/68990513/my-smart-phone-no-longer-appears-kin-the-run-debug-configurations-drop-down/68991236#68991236)
 - [Answer by because_im_batman for How do I know how much data a `docker pull` will fetch?](https://stackoverflow.com/questions/68919509/how-do-i-know-how-much-data-a-docker-pull-will-fetch/68920221#68920221)
 - [Answer by because_im_batman for Variables which names only contain digits &lpar;kotlin/android&rpar;](https://stackoverflow.com/questions/68871856/variables-which-names-only-contain-digits-kotlin-android/68872000#68872000)
-- [Answer by because_im_batman for Start Django development server on AWS EC2 Amazon Linux](https://stackoverflow.com/questions/68183866/start-django-development-server-on-aws-ec2-amazon-linux/68184423#68184423)
 <!-- STACKOVERFLOW:END -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqursuperfly&layout=compact) -->
