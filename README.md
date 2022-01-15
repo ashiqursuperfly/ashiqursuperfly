@@ -62,6 +62,7 @@ Linux                    14 hrs 6 mins       ███████████�
 
 ✍🏻 **My Blog Posts** 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up asynchronous Tasks - Dockerizing Django for deploying anywhere !](https://dev.to/ashiqursuperfly/setting-up-asynchronous-tasks-32f0)
 - [Developing a cost effective alternative to Amazon RDS automatic backups](https://dev.to/ashiqursuperfly/cost-effective-alternative-to-amazon-rds-database-backups-1ll5)
 - [Setting up the database - Dockerizing Django for deploying anywhere !](https://dev.to/ashiqursuperfly/setting-up-the-database-dockerizing-django-for-deploying-anywhere-3emg)
 - [Setting up nginx - Dockerizing Django for deploying anywhere !](https://dev.to/ashiqursuperfly/setting-up-nginx-dockerizing-django-for-deploying-anywhere-536i)
