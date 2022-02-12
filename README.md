@@ -60,11 +60,11 @@ Linux                    20 hrs 15 mins      ███████████�
 
 ✍🏻 **My Blog Posts** 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up asynchronous Tasks - Dockerizing Django for deploying anywhere !](https://dev.to/ashiqursuperfly/setting-up-asynchronous-tasks-32f0)
+- [All Things Security - Dockerizing Django for Deploying Anywhere](https://dev.to/ashiqursuperfly/all-things-security-dockerizing-django-for-deploying-anywhere-5eo2)
+- [Setting up Asynchronous Tasks - Dockerizing Django for deploying anywhere !](https://dev.to/ashiqursuperfly/setting-up-asynchronous-tasks-32f0)
 - [Developing a cost effective alternative to Amazon RDS automatic backups](https://dev.to/ashiqursuperfly/cost-effective-alternative-to-amazon-rds-database-backups-1ll5)
 - [Setting up the database - Dockerizing Django for deploying anywhere !](https://dev.to/ashiqursuperfly/setting-up-the-database-dockerizing-django-for-deploying-anywhere-3emg)
-- [Setting up nginx - Dockerizing Django for deploying anywhere !](https://dev.to/ashiqursuperfly/setting-up-nginx-dockerizing-django-for-deploying-anywhere-536i)
-- [Setting up django app Dockerfile - Dockerizing Django for deploying anywhere !](https://dev.to/ashiqursuperfly/setting-up-django-app-dockerfile-dockerizing-django-for-deploying-anywhere-4mpc)
+- [Configuring nginx - Dockerizing Django for deploying anywhere !](https://dev.to/ashiqursuperfly/setting-up-nginx-dockerizing-django-for-deploying-anywhere-536i)
 <!-- BLOG-POST-LIST:END -->
 
 ❓ **My StackOverflow Activity**
