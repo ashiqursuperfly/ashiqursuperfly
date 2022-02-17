@@ -1,9 +1,13 @@
 ## :speech_balloon: Connect With Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='30'>](https://dev.to/ashiqursuperfly)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cloudbees.svg' alt='website' height='25'>](https://ashiqur-rahman-buet16.herokuapp.com/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/ashiq-buet16/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='25'>](https://stackoverflow.com/users/10498418/because-im-batman)    
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cloudbees.svg' alt='website' height='30'>](https://ashiqur-rahman-buet16.herokuapp.com/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ashiq-buet16/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/10498418/because-im-batman)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ashiqursuperfly)   
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ashiqursuperfly/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ashiqursuperfly)  
 -->
+![Streak Info](https://github-readme-streak-stats.herokuapp.com/?user=ashiqursuperfly)
 
 ![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact)
 
