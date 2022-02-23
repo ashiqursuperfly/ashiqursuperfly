@@ -12,8 +12,6 @@
 ![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-612%20hrs%2030%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-274%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -30,8 +28,8 @@
 ```text
 Monday       62 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.89% 
 Tuesday      54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
-Wednesday    41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.17% 
-Thursday     32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.72% 
+Wednesday    42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.44% 
+Thursday     31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.45% 
 Friday       66 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.98% 
 Saturday     84 commits     █████░░░░░░░░░░░░░░░░░░░░   22.89% 
 Sunday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.63%
@@ -60,7 +58,7 @@ Linux                    10 hrs 2 mins       ███████████�
 ```
 
 
- Last Updated on 22/02/2022 23:46:13 UTC
+ Last Updated on 23/02/2022 23:47:16 UTC
 <!--END_SECTION:waka-->
 
 ✍🏻 **My Blog Posts** 
