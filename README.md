@@ -80,6 +80,7 @@ Linux                    7 hrs 31 mins       ███████████�
 - [Answer by because_im_batman for My smart phone no longer appears kin the run/debug configurations drop-down](https://stackoverflow.com/questions/68990513/my-smart-phone-no-longer-appears-kin-the-run-debug-configurations-drop-down/68991236#68991236)
 - [Answer by because_im_batman for How do I know how much data a `docker pull` will fetch?](https://stackoverflow.com/questions/68919509/how-do-i-know-how-much-data-a-docker-pull-will-fetch/68920221#68920221)
 <!-- STACKOVERFLOW:END -->
+<a href="https://www.buymeacoffee.com/ashiqurrahman" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Beer" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqursuperfly&layout=compact) -->
 <!--
