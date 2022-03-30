@@ -12,7 +12,7 @@
 ![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-628%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-629%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-278%20Thousand%20lines%20of%20code-blue)
 
@@ -28,9 +28,9 @@
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       56 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.34% 
+Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.03% 
 Tuesday      56 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.34% 
-Wednesday    36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.15% 
+Wednesday    37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.46% 
 Thursday     26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.05% 
 Friday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
 Saturday     79 commits     ██████░░░░░░░░░░░░░░░░░░░   24.46% 
@@ -43,18 +43,19 @@ Sunday       20 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     7 mins              ████████████████░░░░░░░░░   64.06% 
+JavaScript               4 mins              █████████░░░░░░░░░░░░░░░░   35.94%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    11 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 29/03/2022 23:45:31 UTC
+ Last Updated on 30/03/2022 23:45:00 UTC
 <!--END_SECTION:waka-->
 
 ✍🏻 **My Blog Posts** 
