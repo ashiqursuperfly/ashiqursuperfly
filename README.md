@@ -2,14 +2,13 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cloudbees.svg' alt='website' height='30'>](https://ashiqur-rahman-buet16.herokuapp.com/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ashiq-buet16/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/10498418/because-im-batman)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ashiqursuperfly)   
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ashiqursuperfly)  
+<a href="https://www.buymeacoffee.com/ashiqurrahman" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Beer" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ashiqursuperfly/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ashiqursuperfly)  
 -->
 ![Streak Info](https://github-readme-streak-stats.herokuapp.com/?user=ashiqursuperfly)
-
-![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%2022%20mins-blue)
@@ -63,6 +62,8 @@ Linux                    6 hrs 8 mins        ███████████�
  Last Updated on 13/04/2022 23:45:04 UTC
 <!--END_SECTION:waka-->
 
+![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact)
+
 ✍🏻 **My Blog Posts** 
 <!-- BLOG-POST-LIST:START -->
 - [Programmatically notifying events to slack channel from python](https://dev.to/ashiqursuperfly/programmatically-notifying-events-to-slack-channel-from-python-1oik)
@@ -80,7 +81,7 @@ Linux                    6 hrs 8 mins        ███████████�
 - [Answer by because_im_batman for My smart phone no longer appears kin the run/debug configurations drop-down](https://stackoverflow.com/questions/68990513/my-smart-phone-no-longer-appears-kin-the-run-debug-configurations-drop-down/68991236#68991236)
 - [Answer by because_im_batman for How do I know how much data a `docker pull` will fetch?](https://stackoverflow.com/questions/68919509/how-do-i-know-how-much-data-a-docker-pull-will-fetch/68920221#68920221)
 <!-- STACKOVERFLOW:END -->
-<a href="https://www.buymeacoffee.com/ashiqurrahman" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Beer" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqursuperfly&layout=compact) -->
 <!--
