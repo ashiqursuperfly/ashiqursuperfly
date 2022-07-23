@@ -64,6 +64,7 @@ Linux                    18 hrs 51 mins      ███████████�
 
 ✍🏻 **My Blog Posts** 
 <!-- BLOG-POST-LIST:START -->
+- [Quickest way to make vanilla React.js app SEO friendly](https://dev.to/ashiqursuperfly/quickest-way-to-make-vanilla-reactjs-app-seo-friendly-5717)
 - [Jenkins controller-agent &lpar;master-slave&rpar; setup in 10 minutes using Docker](https://dev.to/ashiqursuperfly/jenkins-controller-agent-master-slave-setup-in-10-minutes-using-docker-2a78)
 - [Programmatically notifying events to slack channel from python](https://dev.to/ashiqursuperfly/programmatically-notifying-events-to-slack-channel-from-python-1oik)
 - [All Things Security - Dockerizing Django for Deploying Anywhere](https://dev.to/ashiqursuperfly/all-things-security-dockerizing-django-for-deploying-anywhere-5eo2)
