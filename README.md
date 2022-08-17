@@ -11,7 +11,7 @@
 ![Streak Info](https://github-readme-streak-stats.herokuapp.com/?user=ashiqursuperfly)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-819%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-278%20Thousand%20lines%20of%20code-blue)
 
@@ -27,9 +27,9 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       47 commits     █████░░░░░░░░░░░░░░░░░░░░   19.75% 
+Monday       46 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.33% 
 Tuesday      46 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.33% 
-Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.5% 
+Wednesday    26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.92% 
 Thursday     26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.92% 
 Friday       46 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.33% 
 Saturday     31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
@@ -57,7 +57,7 @@ Linux                    16 hrs 46 mins      ███████████�
 ```
 
 
- Last Updated on 16/08/2022 23:48:29 UTC
+ Last Updated on 17/08/2022 23:45:33 UTC
 <!--END_SECTION:waka-->
 
 ![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact)
