@@ -11,7 +11,7 @@
 ![Streak Info](https://github-readme-streak-stats.herokuapp.com/?user=ashiqursuperfly)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-869%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-870%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-280%20Thousand%20lines%20of%20code-blue)
 
@@ -28,9 +28,9 @@
 
 ```text
 Monday       32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
-Tuesday      48 commits     █████░░░░░░░░░░░░░░░░░░░░   22.33% 
+Tuesday      47 commits     █████░░░░░░░░░░░░░░░░░░░░   21.86% 
 Wednesday    23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.7% 
-Thursday     24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
+Thursday     25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
 Friday       45 commits     █████░░░░░░░░░░░░░░░░░░░░   20.93% 
 Saturday     28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
 Sunday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.98%
@@ -57,7 +57,7 @@ Linux                    8 hrs 5 mins        ███████████�
 ```
 
 
- Last Updated on 21/09/2022 23:55:56 UTC
+ Last Updated on 22/09/2022 23:54:59 UTC
 <!--END_SECTION:waka-->
 
 ![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact)
