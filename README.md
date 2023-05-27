@@ -61,6 +61,7 @@ Linux                    18 hrs 37 mins      ███████████�
 
 ✍🏻 **My Blog Posts** 
 <!-- BLOG-POST-LIST:START -->
+- [Terraform Unimport](https://dev.to/ashiqursuperfly/terraform-unimport-1inh)
 - [Quickest way to make vanilla React.js app SEO friendly](https://dev.to/ashiqursuperfly/quickest-way-to-make-vanilla-reactjs-app-seo-friendly-5717)
 - [Jenkins controller-agent &lpar;master-slave&rpar; setup in 10 minutes using Docker](https://dev.to/ashiqursuperfly/jenkins-controller-agent-master-slave-setup-in-10-minutes-using-docker-2a78)
 - [Programmatically notifying events to slack channel from python](https://dev.to/ashiqursuperfly/programmatically-notifying-events-to-slack-channel-from-python-1oik)
