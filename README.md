@@ -61,8 +61,10 @@ Linux                    11 hrs 55 mins      ███████████�
 
 ✍🏻 **My Blog Posts** 
 <!-- BLOG-POST-LIST:START -->
+- [EKS multiple Kubernetes version upgrade using Terraform](https://dev.to/ashiqursuperfly/eks-multiple-kubernetes-version-jump-using-terraform-lp7)
+- [Python script to find unused EC2 subnets](https://dev.to/ashiqursuperfly/python-script-to-find-unused-ec2-subnets-4l23)
 - [This AWS CLI command can run instance refresh for auto scaling groups](https://dev.to/ashiqursuperfly/this-aws-cli-command-can-run-instance-refresh-for-auto-scaling-groups-21j7)
-- [Terraform Unimport](https://dev.to/ashiqursuperfly/terraform-unimport-1inh)
+- [Terraform Unimport : The Terraform command that does not exist !](https://dev.to/ashiqursuperfly/terraform-unimport-1inh)
 - [Quickest way to make vanilla React.js app SEO friendly](https://dev.to/ashiqursuperfly/quickest-way-to-make-vanilla-reactjs-app-seo-friendly-5717)
 - [Jenkins controller-agent &lpar;master-slave&rpar; setup in 10 minutes using Docker](https://dev.to/ashiqursuperfly/jenkins-controller-agent-master-slave-setup-in-10-minutes-using-docker-2a78)
 - [Programmatically notifying events to slack channel from python](https://dev.to/ashiqursuperfly/programmatically-notifying-events-to-slack-channel-from-python-1oik)
@@ -71,7 +73,6 @@ Linux                    11 hrs 55 mins      ███████████�
 - [Developing a cost effective alternative to Amazon RDS automatic backups](https://dev.to/ashiqursuperfly/cost-effective-alternative-to-amazon-rds-database-backups-1ll5)
 - [Setting up the database - Dockerizing Django for deploying anywhere !](https://dev.to/ashiqursuperfly/setting-up-the-database-dockerizing-django-for-deploying-anywhere-3emg)
 - [Configuring nginx - Dockerizing Django for deploying anywhere !](https://dev.to/ashiqursuperfly/setting-up-nginx-dockerizing-django-for-deploying-anywhere-536i)
-- [Setting up django app Dockerfile - Dockerizing Django for deploying anywhere !](https://dev.to/ashiqursuperfly/setting-up-django-app-dockerfile-dockerizing-django-for-deploying-anywhere-4mpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqursuperfly&layout=compact) -->
