@@ -1,9 +1,26 @@
 ## :speech_balloon: Connect With Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cloudbees.svg' alt='website' height='30'>](https://ashiqur-rahman-buet16.herokuapp.com/)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ashiq-buet16">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://dev.to/ashiqursuperfly">
+    <img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://ashiqur-rahman-buet16.herokuapp.com/">
+    <img src='https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logoColor=white' alt="Portfolio"/>
+  </a> 
+  <a href="https://stackoverflow.com/users/10498418/because-im-batman">
+    <img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Youtube Badge"/>
+  </a>
+ <a href="https://www.buymeacoffee.com/ashiqurrahman" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Beer" style="height: 28px !important;width: 160px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</div>
+<!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ashiq-buet16/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/10498418/because-im-batman)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ashiqursuperfly)  
-<a href="https://www.buymeacoffee.com/ashiqurrahman" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Beer" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+!-->
+
+
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ashiqursuperfly/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ashiqursuperfly)  
