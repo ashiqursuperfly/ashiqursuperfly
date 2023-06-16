@@ -59,9 +59,11 @@ Linux                    10 hrs 40 mins      ███████████�
 
 ![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact)
 
-✍🏻 **My Blog Posts** 
-<!-- BLOG-POST-LIST:START --><tr><td>Automate Jenkins Job builds with Python</td><td>https://dev.to/ashiqursuperfly/automate-jenkins-job-builds-with-python-5ee9</td></tr><tr><td>EKS multiple Kubernetes version upgrade using Terraform</td><td>https://dev.to/ashiqursuperfly/eks-multiple-kubernetes-version-jump-using-terraform-lp7</td></tr><tr><td>Python script to find unused EC2 subnets</td><td>https://dev.to/ashiqursuperfly/python-script-to-find-unused-ec2-subnets-4l23</td></tr><tr><td>This AWS CLI command can run instance refresh for auto scaling groups</td><td>https://dev.to/ashiqursuperfly/this-aws-cli-command-can-run-instance-refresh-for-auto-scaling-groups-21j7</td></tr><tr><td>Terraform Unimport : The Terraform command that does not exist !</td><td>https://dev.to/ashiqursuperfly/terraform-unimport-1inh</td></tr><!-- BLOG-POST-LIST:END -->
-
+<table>
+  <tr><th>✍🏻 **My Blog Posts** </th><th>Link</th></tr>
+ <!-- BLOG-POST-LIST:START --><tr><td>Automate Jenkins Job builds with Python</td><td>https://dev.to/ashiqursuperfly/automate-jenkins-job-builds-with-python-5ee9</td></tr><tr><td>EKS multiple Kubernetes version upgrade using Terraform</td><td>https://dev.to/ashiqursuperfly/eks-multiple-kubernetes-version-jump-using-terraform-lp7</td></tr><tr><td>Python script to find unused EC2 subnets</td><td>https://dev.to/ashiqursuperfly/python-script-to-find-unused-ec2-subnets-4l23</td></tr><tr><td>This AWS CLI command can run instance refresh for auto scaling groups</td><td>https://dev.to/ashiqursuperfly/this-aws-cli-command-can-run-instance-refresh-for-auto-scaling-groups-21j7</td></tr><tr><td>Terraform Unimport : The Terraform command that does not exist !</td><td>https://dev.to/ashiqursuperfly/terraform-unimport-1inh</td></tr><!-- BLOG-POST-LIST:END -->
+</table>
+ 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqursuperfly&layout=compact) -->
 <!--
 ![Ashiqur's Stats](https://github-readme-stats.vercel.app/api?username=ashiqursuperfly&show_icons=true&theme=nord&count_private=true)
