@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+</div>
+
 ## :speech_balloon: Connect With Me
 <div id="badges">
   <a href="https://www.linkedin.com/in/ashiq-buet16">
