@@ -13,6 +13,6 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           feed_list: "https://dev.to/feed/ashiqursuperfly"
-          # max_post_count: 20
-          template: "<tr><td>$title</td><td>$url</td></tr>"
-          # template: "<tr><td>$counter</td><td>$randomEmoji(🎈,🌀,🧿,🤖,🎯,💫,🚀,🎨,🏄) $title</td><td>$url</td><td>$categories</td></tr>"
+          max_post_count: 20
+          #template: "<tr><td>$title</td><td>$url</td></tr>"
+          template: "<tr><td>$counter</td><td>$randomEmoji(🎈,🌀,🧿,🤖,🎯,💫,🚀,🎨,🏄) $title</td><td>$url</td><td>$categories</td></tr>"
