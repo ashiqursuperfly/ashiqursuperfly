@@ -32,7 +32,7 @@
 ![Streak Info](https://github-readme-streak-stats.herokuapp.com/?user=ashiqursuperfly)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Spent-1%2C318%20hrs%2052%20mins-008080) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.5%20million%20lines%20of%20code-008080)
+![Code Time](http://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Spent-1%2C318%20hrs%2052%20mins-008080?style=for-the-badge) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.5%20million%20lines%20of%20code-008080?style=for-the-badge)
 
 **I'm a Night 🦉** 
 
