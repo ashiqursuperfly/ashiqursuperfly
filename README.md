@@ -18,18 +18,9 @@
   </a>
  <a href="https://www.buymeacoffee.com/ashiqurrahman" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Beer" style="height: 28px !important;width: 160px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </div>
-<!--
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ashiq-buet16/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/10498418/because-im-batman)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ashiqursuperfly)  
-!-->
-
-
-<!--
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ashiqursuperfly/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ashiqursuperfly)  
--->
-![Streak Info](https://github-readme-streak-stats.herokuapp.com/?user=ashiqursuperfly)
+<div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiqursuperfly" height=140/> <img src="https://stackoverflow-card.vercel.app/?userID=10498418" height=140/>  
+</div>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C320%20hrs%203%20mins-blue)
@@ -78,7 +69,7 @@ Linux                    10 hrs 11 mins      ███████████�
  Last Updated on 16/06/2023 23:35:54 UTC
 <!--END_SECTION:waka-->
 
-![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact"/>
 
 ✍🏻 **My Blog Posts** 
 <table>
@@ -88,9 +79,8 @@ Linux                    10 hrs 11 mins      ███████████�
  
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqursuperfly&layout=compact) -->
 <!--
-![Ashiqur's Stats](https://github-readme-stats.vercel.app/api?username=ashiqursuperfly&show_icons=true&theme=nord&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqursuperfly&layout=compact&theme=radical)
-![Profile views](https://gpvc.arturio.dev/ashiqursuperfly)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
