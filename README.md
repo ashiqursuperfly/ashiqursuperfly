@@ -27,42 +27,8 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.3%20million%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-🌆 Daytime                266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-🌃 Evening                370 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-🌙 Night                  1405 commits        ████████████████░░░░░░░░░   65.50 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   301 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Tuesday                  402 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Wednesday                265 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Thursday                 263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Friday                   331 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Saturday                 345 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Sunday                   238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 29/07/2025 23:42:54 UTC
+ Last Updated on 30/07/2025 23:43:43 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact"/>
