@@ -23,10 +23,48 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.71%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C701%20hrs%2057%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.73%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                288 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+🌆 Daytime                956 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+🌃 Evening                2175 commits        ████████░░░░░░░░░░░░░░░░░   33.64 % 
+🌙 Night                  3046 commits        ████████████░░░░░░░░░░░░░   47.12 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   554 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Tuesday                  1289 commits        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Wednesday                951 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Thursday                 1860 commits        ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+Friday                   954 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Saturday                 558 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Sunday                   299 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+```
 
 
- Last Updated on 15/05/2026 01:29:39 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+YAML                     21 mins             █████████░░░░░░░░░░░░░░░░   36.36 % 
+Terraform                19 mins             ████████░░░░░░░░░░░░░░░░░   32.20 % 
+Bash                     18 mins             ████████░░░░░░░░░░░░░░░░░   31.44 % 
+
+🔥 Editors: 
+VS Code                  1 hr                █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    1 hr                █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/05/2026 00:23:51 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact"/>
