@@ -23,17 +23,15 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C701%20hrs%2057%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.73%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                293 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-🌆 Daytime                956 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-🌃 Evening                2175 commits        ████████░░░░░░░░░░░░░░░░░   33.62 % 
-🌙 Night                  3046 commits        ████████████░░░░░░░░░░░░░   47.08 % 
+🌞 Morning                294 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+🌆 Daytime                956 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+🌃 Evening                2175 commits        ████████░░░░░░░░░░░░░░░░░   33.61 % 
+🌙 Night                  3046 commits        ████████████░░░░░░░░░░░░░   47.07 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -41,7 +39,7 @@
 Monday                   555 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 Tuesday                  1290 commits        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
 Wednesday                952 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Thursday                 1860 commits        ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+Thursday                 1861 commits        ███████░░░░░░░░░░░░░░░░░░   28.76 % 
 Friday                   954 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
 Saturday                 559 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 Sunday                   300 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
@@ -62,7 +60,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/05/2026 01:40:10 UTC
+ Last Updated on 22/05/2026 01:39:05 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact"/>
