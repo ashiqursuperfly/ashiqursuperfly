@@ -23,26 +23,28 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.99%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C705%20hrs%2058%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.06%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                386 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-🌆 Daytime                1037 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-🌃 Evening                2481 commits        █████████░░░░░░░░░░░░░░░░   34.45 % 
-🌙 Night                  3298 commits        ███████████░░░░░░░░░░░░░░   45.79 % 
+🌞 Morning                395 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+🌆 Daytime                1061 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+🌃 Evening                2569 commits        █████████░░░░░░░░░░░░░░░░   34.74 % 
+🌙 Night                  3370 commits        ███████████░░░░░░░░░░░░░░   45.57 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   592 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Tuesday                  1439 commits        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-Wednesday                1042 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Thursday                 2148 commits        ███████░░░░░░░░░░░░░░░░░░   29.83 % 
-Friday                   1076 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Saturday                 596 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Sunday                   309 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Monday                   600 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Tuesday                  1479 commits        █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Wednesday                1066 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Thursday                 2228 commits        ████████░░░░░░░░░░░░░░░░░   30.13 % 
+Friday                   1109 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Saturday                 604 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Sunday                   309 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 ```
 
 
@@ -60,7 +62,7 @@ Linux                    33 mins             ███████████�
 ```
 
 
- Last Updated on 24/07/2026 01:05:14 UTC
+ Last Updated on 25/07/2026 01:10:52 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact"/>
