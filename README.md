@@ -23,30 +23,30 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C487%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C488%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2059%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.33%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+🌞 Morning                335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
 🌆 Daytime                259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
 🌃 Evening                361 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-🌙 Night                  1613 commits        ████████████████░░░░░░░░░   62.84 % 
+🌙 Night                  1613 commits        ████████████████░░░░░░░░░   62.81 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   363 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
 Tuesday                  456 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Wednesday                329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Thursday                 324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Friday                   392 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Saturday                 404 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Sunday                   299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Wednesday                329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Thursday                 325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Friday                   392 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Saturday                 404 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Sunday                   299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
 ```
 
 
@@ -54,23 +54,44 @@ Sunday                   299 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       1 hr 56 mins        █████████████████████████   100.00 % 
+C#                       2 hrs 20 mins       ███████████████████████░░   93.64 % 
+XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  1 hr 56 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 27 mins       █████████████████████████   98.49 % 
+Antigravity CLI          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 💻 Operating System: 
-Linux                    1 hr 56 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 30 mins (20.55%)
+
+✍️ 0 lines written by AI, 435 lines written by hand (0.0% AI-written)
+
+🔤 38,275 Input Tokens, 1,966 Output Tokens
+
+💵 $0.14 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 12 AI Prompts
+
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 91 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/10/2026 01:42:36 UTC
+ Last Updated on 23/10/2026 01:45:29 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact"/>
