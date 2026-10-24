@@ -23,28 +23,28 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C488%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C490%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.33%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-🌆 Daytime                259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-🌃 Evening                361 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-🌙 Night                  1613 commits        ████████████████░░░░░░░░░   62.81 % 
+🌞 Morning                336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+🌆 Daytime                259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+🌃 Evening                361 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+🌙 Night                  1613 commits        ████████████████░░░░░░░░░   62.79 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   363 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Tuesday                  456 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Monday                   363 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Tuesday                  456 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
 Wednesday                329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Thursday                 325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Friday                   392 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Thursday                 325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Friday                   393 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
 Saturday                 404 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
 Sunday                   299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
 ```
@@ -54,32 +54,32 @@ Sunday                   299 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       2 hrs 20 mins       ███████████████████████░░   93.64 % 
-XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+C#                       4 hrs 23 mins       ███████████████████████░░   91.83 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 27 mins       █████████████████████████   98.49 % 
-Antigravity CLI          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+VS Code                  4 hrs 44 mins       █████████████████████████   99.21 % 
+Antigravity CLI          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 💻 Operating System: 
-Linux                    2 hrs 30 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (20.55%)
+⏱ AI Coding Time: 43 mins (15.19%)
 
-✍️ 0 lines written by AI, 435 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 747 lines written by hand (0.0% AI-written)
 
 🔤 38,275 Input Tokens, 1,966 Output Tokens
 
 💵 $0.14 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 12 AI Prompts
+🧠 5 AI Sessions, 13 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
@@ -91,7 +91,7 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/10/2026 01:45:29 UTC
+ Last Updated on 24/10/2026 01:48:29 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact"/>
