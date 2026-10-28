@@ -32,21 +32,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+🌞 Morning                339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
 🌆 Daytime                259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
 🌃 Evening                361 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-🌙 Night                  1613 commits        ████████████████░░░░░░░░░   62.74 % 
+🌙 Night                  1613 commits        ████████████████░░░░░░░░░   62.71 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   363 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Tuesday                  456 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Wednesday                329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Monday                   364 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Tuesday                  456 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Wednesday                329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
 Thursday                 325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Friday                   393 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Friday                   393 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
 Saturday                 405 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Sunday                   300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Sunday                   300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
 ```
 
 
@@ -54,26 +54,26 @@ Sunday                   300 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       4 hrs 59 mins       ███████████████████████░░   92.19 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+C#                       3 hrs 46 mins       ██████████████████████░░░   89.94 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 22 mins       █████████████████████████   99.30 % 
-Antigravity CLI          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+VS Code                  4 hrs 9 mins        █████████████████████████   99.10 % 
+Antigravity CLI          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
-Linux                    5 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (13.41%)
+⏱ AI Coding Time: 43 mins (17.28%)
 
-✍️ 0 lines written by AI, 1,042 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 882 lines written by hand (0.0% AI-written)
 
 🔤 38,275 Input Tokens, 1,966 Output Tokens
 
@@ -91,7 +91,7 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 26/10/2026 01:29:24 UTC
+ Last Updated on 28/10/2026 02:31:14 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact"/>
