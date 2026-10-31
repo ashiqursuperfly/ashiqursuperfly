@@ -32,21 +32,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+🌞 Morning                342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
 🌆 Daytime                259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
 🌃 Evening                361 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-🌙 Night                  1613 commits        ████████████████░░░░░░░░░   62.67 % 
+🌙 Night                  1613 commits        ████████████████░░░░░░░░░   62.64 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   364 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Tuesday                  456 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Tuesday                  456 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
 Wednesday                330 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Thursday                 326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Friday                   393 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Thursday                 326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Friday                   394 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
 Saturday                 405 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Sunday                   300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Sunday                   300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 ```
 
 
@@ -54,41 +54,26 @@ Sunday                   300 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       2 hrs 48 mins       ███████████████████████░░   91.41 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Unity3D Asset            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-GLSL                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+C#                       36 mins             ████████████████████████░   94.94 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Unity3D Asset            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+GLSL                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  37 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 3 mins        █████████████████████████   100.00 % 
+Linux                    37 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (6.88%)
-
-✍️ 0 lines written by AI, 645 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 94 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 30/10/2026 02:47:45 UTC
+ Last Updated on 31/10/2026 02:38:41 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact"/>
