@@ -32,20 +32,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-🌆 Daytime                259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-🌃 Evening                361 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-🌙 Night                  1613 commits        ████████████████░░░░░░░░░   62.64 % 
+🌞 Morning                343 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+🌆 Daytime                259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+🌃 Evening                361 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+🌙 Night                  1613 commits        ████████████████░░░░░░░░░   62.62 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   364 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Tuesday                  456 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Wednesday                330 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Monday                   364 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Tuesday                  456 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Wednesday                330 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
 Thursday                 326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
 Friday                   394 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Saturday                 405 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Saturday                 406 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
 Sunday                   300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 ```
 
@@ -54,16 +54,13 @@ Sunday                   300 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       36 mins             ████████████████████████░   94.94 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Unity3D Asset            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-GLSL                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -73,7 +70,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 31/10/2026 02:38:41 UTC
+ Last Updated on 01/11/2026 02:26:13 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashiqursuperfly&layout=compact"/>
